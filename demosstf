@@ -1,0 +1,18 @@
+/tmp/lgJN5glc1G.o
+Enter the max range of disk: 200
+Enter the size of queue request: 8
+Enter the queue of disk positions to be read: 176 79 34 60 92 11 41 114
+Enter the initial head position: 50
+Disk head moves from 50 to 41 with seek 9
+Disk head moves from 41 to 34 with seek 7
+Disk head moves from 34 to 11 with seek 23
+Disk head moves from 11 to 60 with seek 49
+Disk head moves from 60 to 79 with seek 19
+Disk head moves from 79 to 92 with seek 13
+Disk head moves from 92 to 114 with seek 22
+Disk head moves from 114 to 176 with seek 62
+Total seek time is 204
+Average seek time is 25.500000
+
+
+=== Code Execution Successful ===
