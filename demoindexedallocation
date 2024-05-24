@@ -1,0 +1,33 @@
+Enter the index block: 2
+Enter the number of blocks needed: 5
+Enter the blocks:
+2
+3
+4
+5
+6
+Allocated
+File Indexed
+2-------->2 : 1
+2-------->3 : 1
+2-------->4 : 1
+2-------->5 : 1
+2-------->6 : 1
+Do you want to enter more files? (Yes - 1 / No - 0): 1
+Enter the index block: 2
+2 index is already allocated
+Enter the index block: 3
+3 index is already allocated
+Enter the index block: 6
+6 index is already allocated
+Enter the index block: 7
+Enter the number of blocks needed: 1
+Enter the blocks:
+1
+Allocated
+File Indexed
+7-------->1 : 1
+Do you want to enter more files? (Yes - 1 / No - 0): 0
+
+
+=== Code Execution Successful ===
